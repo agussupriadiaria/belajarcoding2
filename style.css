@@ -1,0 +1,19 @@
+.container{
+    background-color: red;
+    width: 800px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+div div{
+    display: flex;
+    width: 80px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    /* padding: 10px; */
+    /* margin:4px */
+}
